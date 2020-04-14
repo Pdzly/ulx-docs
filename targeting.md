@@ -11,6 +11,7 @@ description: >
 
 | Keyword    | Meaning                                   |
 |------------|-------------------------------------------|
+| `Name`     | Target with this 'Name'                   |
 | `^`        | yourself                                  |
 | `*`        | everyone                                  |
 | `@`        | player in front of you                    |
